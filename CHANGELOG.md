@@ -1,3 +1,28 @@
+# 1.30.0
+- Continent = 7+32 = 39
+  - Africa = 8
+  - Asia = 5
+  - Europe = 3
+  - North America = 5
+  - South America = 5
+  - Oceania = 6
+  - Antarctica = X
+
+---
+
+- Felidae = 2+8 = 10
+  - Pantherinae = 4
+  - Felinae = 4
+
+---
+
+- wonders = 22
+  - ancient = 7
+  - natural = 7
+  - new = 8
+
+---
+
 # 1.19.1
 - Continent = 7+25 = 32
   - Africa = 6
