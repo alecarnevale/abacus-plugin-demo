@@ -1,3 +1,28 @@
+# 1.2.1
+- Continent = 6+13 = 19
+  - Africa = 3
+  - Asia = 2
+  - Europe = 2
+  - North America = 3
+  - South America = 1
+  - Oceania = 2
+  - Antarctica = 0
+
+---
+
+- Felidae = 2+5 = 7
+  - Pantherinae = 2
+  - Felinae = 3
+
+---
+
+- wonders = 9
+  - ancient = 2
+  - natural = 3
+  - new = 4
+
+---
+
 # 1.2.0
 - Continent = 5+10 = 15
   - Africa = 3
