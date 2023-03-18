@@ -1,12 +1,14 @@
 pluginManagement {
   repositories {
     gradlePluginPortal()
+    maven(url = "../local-plugin-repository")
   }
 }
 
 dependencyResolutionManagement {
   repositories {
     mavenCentral()
+    maven("https://jitpack.io")
   }
 }
 
