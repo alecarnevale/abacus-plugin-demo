@@ -14,7 +14,9 @@ plugins {
 
 abacus {
   val cls = listOf("Continent", "Felidae", "Africa", "Asia", "Europe", "NorthAmerica", "SouthAmerica", "Oceania", "Antarctica", "Pantherinae", "Felinae")
-  val ext = listOf(Pair("xml", "ancient"), Pair("xml", "natural"), Pair("xml", "new"))
+  val exts = listOf("xml")
+  val folders = listOf("ancient", "natural", "new")
   supertypes.set(cls)
-  fileDescriptors.set(ext)
+  fileExtensions.set(exts)
+  fileFolders.set(folders)
 }
