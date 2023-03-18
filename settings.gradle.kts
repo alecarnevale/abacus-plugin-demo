@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "abacus-plugin-demo"
 include("interfaces")
+include("abstracts")
+include("implementations")
