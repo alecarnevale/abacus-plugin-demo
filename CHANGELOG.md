@@ -1,3 +1,28 @@
+# 1.1.0
+- Continent = 2+3 = 5
+  - Africa = 0
+  - Asia = 2
+  - Europe = 0
+  - North America = 0
+  - South America = 1
+  - Oceania = 0
+  - Antarctica = 0
+
+---
+
+- Felidae = 2+1 = 4
+  - Pantherinae = 1
+  - Felinae = 1
+
+---
+
+- wonders = 5
+  - ancient = 2
+  - natural = 3
+  - new = 0
+
+---
+
 # 1.0.0
 - Continent = 0
     - Africa = 0
