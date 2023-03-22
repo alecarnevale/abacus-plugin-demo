@@ -9,7 +9,7 @@ buildscript {
 
 plugins {
   id("org.jetbrains.kotlin.jvm") version "1.8.0"
-  id("com.alecarnevale.abacus") version "1.0.0"
+  id("io.github.alecarnevale.abacus") version "1.0.0"
 }
 
 abacus {
