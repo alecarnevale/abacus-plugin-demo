@@ -17,3 +17,6 @@ abacus {
 ## Outputs
 - `./gradlew abacusTags` generates list of tags in `build/abacus/tags.txt`
 - `./gradlew abacus` generates `build/abacus/output.csv` and `build/abacus/plot.html`
+
+## Plot
+![Plot the results](results.png)
